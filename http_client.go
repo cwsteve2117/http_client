@@ -13,7 +13,7 @@ var (
 
 const (
 	MaxIdleConnections int    = 2
-	ApiEndpoint        string = "https://api.example.com/v2/info"
+	ApiEndpoint        string = "https://api.system.13.91.52.217.cf.pcfazure.com/v2/info"
 )
 
 type cloudInfo struct {
